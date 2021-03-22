@@ -9,10 +9,13 @@
 5. [Summary](#Summary)
 
 ## <a name="Installation"></a>Installation
+No additional libraries are needed for this project.
 
 ## <a name="Motivation"></a>Project Motivation
+For the Data Science capstone project we were allowed to select a project from a few choices.  I chose the Starbucks project because I can see the real-world application of this situation.  I find it extremely interesting to use to data to attempt to predict human behavior.
 
 ## <a name="Description"></a>File Description
+
 
 ## <a name="License"></a>Licensing, Authors, Acknowledgements
 
